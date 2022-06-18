@@ -1,6 +1,6 @@
 --This script reveals ALL hidden messages in the default chat
 --chat "/e spy" to toggle!
-enabled = true
+enabled = false
 --if true will check your messages too
 spyOnMyself = false
 --if true will chat the logs publicly (fun, risky)
